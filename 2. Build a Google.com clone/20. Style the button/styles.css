@@ -29,15 +29,21 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 30px;
-
-    /*
-    Challenge:
-    Style the button according to the provided design.
-    Hint: Use padding, font-size, border-radius, border, and background
-    
-    PS: 
-    The real background is #f8f9fa but it is failing our contrast check. 
-    So here's the background color we will use: #dfe1e5
-    */
-    
+    /*Challenge:;
+    Stylethebuttonaccordingtotheprovideddesign.Hint:;
+    Usepadding,font-size,border-radius,border,andbackgroundPS:;
+    Therealbackgroundis#f8f9fabutitisfailingourcontrastcheck.Sohere'sthebackgroundcolorwewilluse:;
+    #dfe1e5*/
+    background: #dfe1e5;
+    border: none;
+    border-radius: 4px;
+    padding-top: 8px;
+    padding-right: 16px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    font-size: 14px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
 }
