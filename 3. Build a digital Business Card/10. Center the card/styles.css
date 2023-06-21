@@ -13,6 +13,9 @@ body {
     */
     padding: 20px;
     display: flex;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
     justify-content: space-around
 }
 
