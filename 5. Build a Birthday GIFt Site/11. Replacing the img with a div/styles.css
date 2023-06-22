@@ -52,6 +52,10 @@ h1, h2, h3, h4, p {
     width: 400px;
     border: 6px solid white;
     border-radius: 10px;
+    height: 400px;
+    background-image: url("images/gift-cover.jpg");
+    background-size: cover;
+    margin: 0 auto;
 }
 
 /*
@@ -62,5 +66,4 @@ like the provided design again.
 It needs a height (should be a square), a
 background image, and to be centered again.
 */
-
 
