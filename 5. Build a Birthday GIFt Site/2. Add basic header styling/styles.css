@@ -8,3 +8,17 @@ Don't know how to make an image round? Google it!
 Also, consider how you should select the image 
 (class vs id vs element selector).
 */
+
+body {
+    font-family: 'Happy Monkey', cursive;
+    text-align: center;
+}
+
+#bff-img {
+    width: 150px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
